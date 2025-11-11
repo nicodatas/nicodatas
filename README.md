@@ -27,9 +27,9 @@ Always learning new tools, exploring real datasets, and improving every day.
 ---
 
 ### 📫 **How to Reach Me**
-- 💼 [LinkedIn](https://linkedin.com/in/tuusuario)  
-- 📊 [Maven Analytics Portfolio](https://app.mavenanalytics.io/profile/tuusuario)  
-- 🐍 [GitHub Projects](https://github.com/tuusuario)
+- 💼 [LinkedIn](https://linkedin.com/in/laureano-romero)  
+- 📊 [Maven Analytics Portfolio]([https://app.mavenanalytics.io/profile/tuusuario](https://mavenshowcase.com/profile/48118380-7091-7019-3793-435e35dbc180))  
+- 🐍 [GitHub Projects](https://github.com/nicodatas/)
 
 ---
 
